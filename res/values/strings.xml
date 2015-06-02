@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KitFisica</string>
+    <string name="hello">Enter two values and click on Calculate to multiply them.</string>
+    <string name="txtFirstNumber">Enter First Number</string>
+    <string name="txtSecondNumber">Enter Second Number</string>
+    <string name="txtSpace"></string>
+    <string name="boton1">Suma de Vectores</string>
+    <string name="boton2">MRU</string>
+    <string name="boton3">Magnetismo</string>
+    <string name="boton4">Energia</string>
+    <string name="descripcion">Kit de Física</string>
+    <string name="AcercaDe">Kit de Física para niños</string>
+	<string name="mensaje">Esta aplicación contiene juegos entretenidos que toma de manera gráfica
+	    algunos de los temas complicados de entender por los alumnos ayudando a su rápida comprensión.</string>
+	    
+	<string name="about"> \nDesarrollado por Jorge Luis Carhuarica Aguilar y Javier Villegas Herrera en el curso de Topicos II, 
+	    	Facultad de Ciencias, Universidad Nacional de Ingeniería, Lima, Perú.</string>
+</resources>
